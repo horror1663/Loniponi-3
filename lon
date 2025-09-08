@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Meine Bild-Seite</title>
+</head>
+<body>
+  <h1>Mein Bild</h1>
+
+  <img src="https://i.ibb.co/Myj5YFMY/Screenshot-2025-09-08-161736.png" 
+       alt="Beschreibung des Bildes" 
+       width="400">
+</body>
+</html>
